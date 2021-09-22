@@ -1,0 +1,7 @@
+application =
+{
+	content =
+	{
+		scale = "adaptive",		
+	},
+}
